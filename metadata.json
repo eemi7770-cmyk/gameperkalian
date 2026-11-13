@@ -1,0 +1,6 @@
+{
+  "name": "Misi Menaklukkan Labirin Perkalian",
+  "description": "Game edukasi matematika interaktif petualangan labirin hutan ajaib untuk siswa kelas 5 SD materi perkalian bilangan cacah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
